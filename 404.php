@@ -1,0 +1,1 @@
+<?php get_header();sk_page_head(sk_t('n_404'));?><section class="sec"><div class="sk-wrap"><p><a class="sk-btn" href="<?php echo esc_url(home_url('/'));?>"><?php echo sk_x('n_404_btn');?></a></p></div></section><?php get_footer();
